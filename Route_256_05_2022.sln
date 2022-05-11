@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox-problem-a", "Sandbox-problem-a\Sandbox-problem-a.csproj", "{5CBCF96D-5830-42AD-9A6E-AD9983743C56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox-problem-b", "Sandbox-problem-b\Sandbox-problem-b.csproj", "{0227E014-747B-4EB9-9CA6-0D19497E47A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5CBCF96D-5830-42AD-9A6E-AD9983743C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CBCF96D-5830-42AD-9A6E-AD9983743C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CBCF96D-5830-42AD-9A6E-AD9983743C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0227E014-747B-4EB9-9CA6-0D19497E47A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0227E014-747B-4EB9-9CA6-0D19497E47A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0227E014-747B-4EB9-9CA6-0D19497E47A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0227E014-747B-4EB9-9CA6-0D19497E47A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
